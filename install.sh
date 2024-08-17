@@ -15,4 +15,4 @@ sudo mkdir -p ${TARGET_LOCATION}
 sudo cp WIFI_MT7961_patch_mcu_1_2_hdr.bin ${TARGET_LOCATION}
 sudo cp BT_RAM_CODE_MT7961_1_2_hdr.bin ${TARGET_LOCATION}
 
-reboot
+sudo reboot
